@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day9\ConLargeDataCollection\ConLargeDataCollection\bin\Debug\ConLargeDataCollection.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day9\ConLargeDataCollection\ConLargeDataCollection\bin\Debug\ConLargeDataCollection.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day9\ConLargeDataCollection\ConLargeDataCollection\bin\Debug\ConLargeDataCollection.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day9\ConLargeDataCollection\ConLargeDataCollection\obj\Debug\ConLargeDataCollection.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day9\ConLargeDataCollection\ConLargeDataCollection\obj\Debug\ConLargeDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day9\ConLargeDataCollection\ConLargeDataCollection\obj\Debug\ConLargeDataCollection.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day9\ConLargeDataCollection\ConLargeDataCollection\obj\Debug\ConLargeDataCollection.pdb
